@@ -1,3 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =8
 let g:netrw_dirhist_1='/Users/Morphin3/Programming/Gezbox/windthunder/windthunder/app/build'
+let g:netrw_dirhist_2='/Users/Morphin3'
+let g:netrw_dirhist_3='/Users/Morphin3/Programming/blogByHexo/Morphin3/source'
+let g:netrw_dirhist_4='/Users/Morphin3/Dropbox/Gezbox/android-mrwind-refactor/.git'
+let g:netrw_dirhist_5='/Users/Morphin3/.gradle'
+let g:netrw_dirhist_6='/Users/Morphin3/Dropbox/NetEase/erciyuan_android/.git'
+let g:netrw_dirhist_7='/Users/Morphin3/.gradle'
+let g:netrw_dirhist_8='/Users/Morphin3/Dropbox/NetEase/erciyuan_android/.git'
